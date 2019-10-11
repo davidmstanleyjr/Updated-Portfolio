@@ -100,5 +100,9 @@ h1 {
         text-align: center !important;
         width: 100%;
     }
+    .links {
+        margin: 10px;
+        
+    }
 }
 
